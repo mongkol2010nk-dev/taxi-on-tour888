@@ -180,9 +180,10 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
 
 /* ส่วนพื้นหลังดำสำหรับสไลด์ภาพถ้าใช้ */
 .slider-placeholder { width:100%; height:250px; background-color:#ddd; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
+🚨🚨🚨
+</html>
 
-/* ส่วนท้ายข้อความ */
-.footer-section { text-align:center; margin:30px 20px; }<!DOCTYPE html>567
+<!DOCTYPE html>567
 <html lang="th">
 <head>
 <meta charset="UTF-8">
@@ -289,37 +290,44 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
 </style>
 </head>
 <body>
-  
+
 <!-- ปุ่ม 3 ขีด -->
 <button class="menu-toggle" onclick="toggleMenu()">
-  <div></div>
-  <div></div>
-  <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
 </button>
+
 <!-- เมนู PopUp -->
 <div class="menu" id="menu">
-  <button class="close-btn" onclick="toggleMenu()">x</button>
-  <ul>
-    <li><a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/">หน้าแรก-1</a></li>
+    <button class="close-btn" onclick="toggleMenu()">x</button>
     <ul>
-      <li><a href="https://mongkol2010.simdif.com">จองรถ---2</a></li>
-      <ul>
+        <li><a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/">หน้าแรก-1</a></li>
+    <ul>
+        <li><a href="https://mongkol2010.simdif.com">จองรถ---2</a></li>
+    <ul>
         <li><a href="">แกลลอรี่-11</a></li>
-        <ul>
-          <li><a href="https://taxianya.github.io/eak12312/">บทความ-อ</a></li>
-          <ul>
-            <li><a href="https://taxianya.github.io/Sangphet/">ติดต่อเรา-ส</a></li>
-            
-          </ul>
+    <ul>
+        <li><a href="https://taxianya.github.io/eak12312/">บทความ-อ</a></li>
+    <ul>
+        <li><a href="https://taxianya.github.io/Sangphet/">ติดต่อเรา-ส</a></li>
+        
+    </ul>
 </div>
-</style>
-</head>
 
-<body>
+<script>
+    function toggleMenu() {
+        document.getElementById("menu").classList.toggle("active");
+    }
+</script>
 
+</body>
+</html>
 <header>
   <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-      <p>"บริการเยี่ยม ตรงเวลา และปลอดภัย"</p>
+  <p>"บริการเยี่ยม ตรงเวลา และปลอดภัย"</p>
+</header>
+
 </header>
 
   </header>
@@ -1960,6 +1968,5 @@ header { padding:20px; text-align:center; }
     สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
     </header>
     🔥🔥
-
 
 
