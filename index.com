@@ -123,67 +123,9 @@
     }
   </style>
 </head>
-<body>
-  <!-- Header -->
-  <header>
-   <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=350" alt="โปรไฟล์"> 
-<!-- เว้นช่องว่างสำหรับรูปโปรไฟล์ -->
-<h1 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">Taxi on Tour Servicr</h1>
- <h3 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;"> บริการแท็กซี่ โทรเรียกรถแท็กซี่ 24 ชั่วโมงทั่วไทย </h3>
-</h5>
-  <div class="image-grid">
-    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008018.jpg?w=500" alt="car
-        1">
-<p3 style="color: black; font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6; text-align: justify;">
-<h4 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;"> เดินทางอุ่นใจเรียกใช้แท็กซี่ได้ทุกที่ทุกเวลา</h4>
-  บริการเช่าเหมารถทุกประเภท ทั้ง รถเก๋ง, รถ SUV, รถตู้ VIP พร้อมคนขับมืออาชีพ ที่มีประสบการณ์มากกว่า 10 ปี
-  ชำนาญทุกเส้นทางทั่วไทย ไม่ว่าจะเป็นเที่ยว, ทำงาน, รับ-ส่งสนามบิน,
-  หรือเดินทางไปต่างจังหวัด
-  เรามีรถที่สะอาด ปลอดภัย ตรงเวลา พร้อมสร้างความประทับใจในทุกการเดินทาง
-  ชำนาญทุกเส้นทาง รถสวย สะอาด ปลอดภัย ตรงเวลาทุกทริป
-</p3>        
-
-    <a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/" class="btn"> จองบริการทันที </a>
-     หน้าที่ 4
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Taxi On Tour - หน้าที่ 4</title>
-<style>
-body { margin:0; padding:0; font-family:Arial,sans-serif; background-color:#fff; color:#000; line-height:1.6; }
-header { padding:20px; text-align:center; }
-/* โลโก้โปรไฟล์ */
-.logo-profile { width:150px; height:150px; background-color:#ccc; margin:0 auto 30px auto; display:flex; justify-content:center; align-items:center; font-weight:bold; }
-
-/* หัวข้อใหญ่ */
-h1 { font-size:28px; font-weight:bold; margin:20px 0; text-align:center; }
-h2 { font-size:24px; font-weight:bold; margin:20px 0; }
-h3 { font-size:20px; font-weight:bold; margin:15px 0; }
-
-/* ข้อความเล็ก */
-p.small { font-size:14px; font-weight:300; margin-bottom:10px; }
-
-/* จุดหัวข้อเล็กหนา */
-p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
-
-/* ส่วนวางเบอร์โทรและ LINE */
-.phone-line-placeholder { width:200px; height:50px; background-color:#ccc; margin:10px auto; display:block; }
-
-/* ส่วนวางรูปรถหรือรูปโปรไฟล์ */
-.image-placeholder { width:100%; height:250px; background-color:#eee; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ตารางเครื่องหมายถูกตัวอย่าง */
-.check-grid { display:flex; justify-content:space-around; flex-wrap:wrap; margin:20px 0; }
-.check-item { background-color:#00a651; color:#fff; width:180px; height:80px; border-radius:8px; display:flex; justify-content:center; align-items:center; text-align:center; margin:10px; font-weight:bold; font-size:14px; }
-
-/* ส่วนพื้นหลังดำสำหรับสไลด์ภาพถ้าใช้ */
-.slider-placeholder { width:100%; height:250px; background-color:#ddd; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-🚨🚨🚨
-</html>
-
-<!DOCTYPE html>567
+<body> 
+🍎🍎🍎
+<html><!DOCTYPE html>567
 <html lang="th">
 <head>
 <meta charset="UTF-8">
@@ -302,15 +244,15 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
 <div class="menu" id="menu">
     <button class="close-btn" onclick="toggleMenu()">x</button>
     <ul>
-        <li><a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/">หน้าแรก-1</a></li>
+        <li><a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/">หน้า-s-1</a></li>
     <ul>
-        <li><a href="https://mongkol2010.simdif.com">จองรถ---2</a></li>
+        <li><a href="https://mongkol2010.simdif.com">จองsim2</a></li>
     <ul>
-        <li><a href="">แกลลอรี่-11</a></li>
+        <li><a href="https://taxianya.github.io/m-wedsite/">แกwedsite</a></li>
     <ul>
-        <li><a href="https://taxianya.github.io/eak12312/">บทความ-อ</a></li>
+        <li><a href="https://mongkol2010nk-dev.github.io/taxi-on-tour999/">บทค999</a></li>
     <ul>
-        <li><a href="https://taxianya.github.io/Sangphet/">ติดต่อเรา-ส</a></li>
+        <li><a href="https://taxianya.github.io/Sangphet/">ติดต่อ-ส</a></li>
         
     </ul>
 </div>
@@ -322,18 +264,81 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
 </script>
 
 </body>
-</html>
-<header>
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-  <p>"บริการเยี่ยม ตรงเวลา และปลอดภัย"</p>
-</header>
+</html></html> 
+  <!-- Header -->
+  <header>
+   <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=350" alt="โปรไฟล์"> 
+<!-- เว้นช่องว่างสำหรับรูปโปรไฟล์ -->
+<h5 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">
+  <h1 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">Taxi on Tour Servicr</h1>
+  <h3 style="color: black; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">บริการแท็กซี่โทรเรียกรถแท็กซี่ 24 ชั่วโมง</h3>
+</h5>
+  <div class="image-grid">
+    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008018.jpg?w=500" alt="car
+        1">
+<p3 style="color: black; font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6; text-align: justify;">
+  <h4 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">เดินทางอุ่นใจเรียกใช้แท็กซี่ได้ทุกที่ทุกเวลา</h4>
+  บริการเช่าเหมารถทุกประเภท ทั้ง รถเก๋ง, รถ SUV, รถตู้ VIP พร้อมคนขับมืออาชีพ ที่มีประสบการณ์มากกว่า 10 ปี
+  ชำนาญทุกเส้นทางทั่วไทย ไม่ว่าจะเป็นเที่ยว, ทำงาน, รับ-ส่งสนามบิน,
+  หรือเดินทางไปต่างจังหวัด
+  เรามีรถที่สะอาด ปลอดภัย ตรงเวลา พร้อมสร้างความประทับใจในทุกการเดินทาง
+  ชำนาญทุกเส้นทาง รถสวย สะอาด ปลอดภัย ตรงเวลาทุกทริป
+</p3>        
 
-</header>
+    <a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/" class="btn"> จองบริการทันที </a>
+    🚨
+      <!-- 🔴 ปุ่มแถบสีแดง โทรออกได้ -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <a href="tel:0636385818"
+     style="display: inline-block;
+            width: 90%;
+            max-width: 400px;
+            background: linear-gradient(90deg, #ff0000, #cc0000);
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 20px;
+            padding: 15px 0;
+            border-radius: 50px;
+            box-shadow: 0 0 30px rgba(255, 0, 0, 0.7);
+            filter: drop-shadow(0 0 15px rgba(255, 80, 80, 0.9));
+            animation: float 3s ease-in-out infinite, pulse 2s infinite;">
+    📞 โทรเรียก Taxi On Tour ได้เลย
+  </a>
+</div>
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
 
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 15px rgba(255, 0, 0, 0.6); }
+  50% { box-shadow: 0 0 30px rgba(255, 0, 0, 1); }
+}
+</style>
+<!-- 💚 ปุ่มแถบสีเขียวสะท้อน ติดต่อ-->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <a href="https://line.me/ti/p/HUebrrGfM-" target="_blank"
+     style="display: inline-block;
+            width: 90%;
+            max-width: 350px;
+            background: linear-gradient(60deg, #00c853, #009624);
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 20px;
+            padding: 15px 0;
+            border-radius: 80px;
+            box-shadow: 0 0 90px rgba(0, 255, 100, 0.7);
+            filter: drop-shadow(0 0 15px rgba(0, 255, 100, 0.9));
+            animation: float 3s ease-in-out infinite, pulse-green 2s infinite;">
+    💬 แชทผ่าน LINE กับเรา
+  </a>
+</div> 
+    🚨
   </header>
-😀😀😀😀
-<h1 style="color: black; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">Tsxi On Tour บริการเรียกรถ สะดวก รวดเร็ว ปลอดภัย</h1>
-<h4 style="color: black; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">ต้องการเดินทางในกรุงเทพฯ? Taxi On Tour พร้อมให้บริการตลอด 24 ชั่วโมง ไม่ว่าคุณจะไป เที่ยววัด ไหว้พระ หรือทำธุระอื่นฯ ก็สะดวกสบาย ด้วยบริการที่ ปลอดภัย รวดเร็ว ราคาเป็นกันเอง</h4>
+
   <!-- Welcome -->
   <section>
     <h3>บริการเช่ารถพร้อมคนขับ</h3>
@@ -584,139 +589,7 @@ counters.forEach(counter => observer.observe(counter));
   </style>
 </head>
 <body>
-😀😀😀😀😁
-<!DOCTYPE html>567
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TAXI ON TOUR</title>
-<style>
-    body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-    }
-    /* ปุ่ม 3 ขีด */
-    .menu-toggle {
-        background: #2d8a3d;
-        border: none;
-        padding: 12px;
-        cursor: pointer;
-        position: fixed;
-        top: 15px;
-        right: 15px;
-        z-index: 1000;
-        border-radius: 5px;
-    }
-    .menu-toggle div {
-        width: 25px;
-        height: 3px;
-        background: white;
-        margin: 5px 0;
-    }
-
-    /* พื้นหลัง PopUp */
-    .menu {
-        position: fixed;
-        top: 0;
-        right: -100%;
-        width: 100%;
-        height: 100%;
-        background: #f0fff4;
-        color: black;
-        transition: 0.4s;
-        z-index: 999;
-        text-align: center;
-        padding-top: 80px;
-    }
-    .menu.active {
-        right: 0;
-    }
-
-    /* ปุ่มปิด */
-    .menu .close-btn {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        background: #2d8a3d;
-        color: white;
-        border: none;
-        font-size: 20px;
-        padding: 5px 12px;
-        cursor: pointer;
-        border-radius: 5px;
-    }
-
-    /* ลิสต์เมนู */
-    .menu ul {
-        list-style: none;
-        padding: 0;
-    }
-    .menu ul li {
-        margin: 25px 0;
-    }
-    .menu ul li a {
-        text-decoration: none;
-        font-size: 22px;
-        font-weight: bold;
-        color: #000;
-    }
-    .menu ul li:first-child a {
-        display: inline-block;
-        background: #2d8a3d;
-        color: white;
-        padding: 12px 150px;
-        border-radius: 5px;
-    }
-    .menu u2 li:first-child a {
-        display: inline-block;
-        background: #2d8a3d;
-        color: white;
-        padding: 12px 150px;
-       border-radius: 5px;
-    }
-    .menu u2 li:first-child a {
-      display: inline-block;
-      background: #2d8a3d;
-      color: white;
-      padding: 12px 150px;
-      border-radius: 5px;
-    }
-    .menu u2 li:first-child a {
-      display: inline-block;
-      background: #2d8a3d;
-      color: white;
-      padding: 12px 150px;
-      border-radius: 5px;
-    }    
-</style>
-</head>
-<body>
-
-<!-- ปุ่ม 3 ขีด -->
-<button class="menu-toggle" onclick="toggleMenu()">
-    <div></div>
-    <div></div>
-    <div></div>
-</button>
-
-<!-- เมนู PopUp -->
-<div class="menu" id="menu">
-    <button class="close-btn" onclick="toggleMenu()">x</button>
-    <ul>
-        <li><a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/">หน้าแรก-1</a></li>
-    <ul>
-        <li><a href="https://mongkol2010.simdif.com">จองรถ---2</a></li>
-    <ul>
-        <li><a href="">แกลลอรี่-11</a></li>
-    <ul>
-        <li><a href="https://taxianya.github.io/eak12312/">บทความ-อ</a></li>
-    <ul>
-        <li><a href="https://taxianya.github.io/Sangphet/">ติดต่อเรา-ส</a></li>
-        
-    </ul>
-</div>
-😀😀3ขีด
+  
   <section>
     <h2>รีวิวจากลูกค้า</h2>
     <div class="review-slider">
@@ -903,203 +776,10 @@ counters.forEach(counter => observer.observe(counter));
     <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
     <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
     <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" al
- หน้าที่ 2
-<!-- ตารางบริการ 6 จุด พร้อม Pop Up / Link -->
-<section class="services-section">
-    <div class="service-card" onclick="openPage('page1')">เหมารถกรุงเทพฯ</div>
-    <div class="service-card" onclick="openPage('page2')">เหมารถตู้กรุงเทพฯ</div>
-    <div class="service-card" onclick="openPage('page3')">เหมารถไปสนามบิน</div>
-    <div class="service-card" onclick="openPage('page4')">เที่ยวในกรุงเทพฯ</div>
-    <div class="service-card" onclick="openPage('page5')">เที่ยวต่างจังหวัดทุกที่</div>
-    <div class="service-card" onclick="openPage('page6')">ใช้งานอื่นๆ</div>
-</section>
-
-<style>
-.services-section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 12px; /* ลดช่องว่างให้กระชับ */
-    padding: 15px 0;
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-.service-card {
-    background-color: #003366; /* น้ำเงินเข้ม */
-    color: #fff;
-    flex: 1 1 140px; /* ขนาดเล็กลง */
-    max-width: 160px; 
-    height: 70px; /* ลดความสูง */
-    border-radius: 12px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    font-weight: bold;
-    font-size: 13px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-    cursor: pointer;
-    transition: transform 0.2s;
-}
-
-.service-card:hover {
-    transform: translateY(-4px);
-}
-
-/* Responsive มือถือ */
-@media screen and (max-width:768px){
-    .service-card {
-        flex: 1 1 45%;
-        max-width: 45%;
-        margin-bottom: 12px;
-    }
-}
-</style>
-
-<script>
-function openPage(pageId){
-    // ฟังก์ชันเปิด Pop Up หรือเด้งไปหน้าอื่น
-    // ตัวอย่าง: ใช้ alert แทน หรือแทนด้วยโค้ด Pop Up จริง
-    alert("เปิดหน้าที่: " + pageId);
-    // สามารถแทน alert ด้วยการเปิด div หรือ modal ของแต่ละหน้า
-}
-</script>
- หน้าที่3
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Taxi On Tour - หน้าที่ 3</title>
-<style>
-    body { margin:0; padding:0; font-family:Arial,sans-serif; background-color:#000; color:#fff; line-height:1.6; }
-    h1, h2, h3 { margin-bottom:20px; }
-    h1 { font-size:36px; font-weight:bold; text-align:center; margin-top:40px; }
-    h2 { font-size:28px; font-weight:bold; margin-top:40px; text-align:center; }
-    .destination-list, .bangkok-routes {
-        max-width:900px;
-        margin:0 auto 40px auto;
-        padding:0 20px;
-    }
-    .destination-list ul, .bangkok-routes ul {
-        list-style:none;
-        padding-left:0;
-    }
-    .destination-list li, .bangkok-routes li {
-        position:relative;
-        padding-left:25px;
-        margin-bottom:15px;
-        font-size:16px;
-    }
-    .destination-list li::before, .bangkok-routes li::before {
-        content:"●";
-        position:absolute;
-        left:0;
-        top:0;
-        color:#fff;
-        font-size:12px;
-        line-height:16px;
-    }
-</style>
-</head>
-<body>
-
-<!-- จุดหมายปลายทางยอดนิยม -->
-<h1>จุดหมายปลายทางยอดนิยม</h1>
-<div class="destination-list">
-    <ul>
-        <li>กรุงเทพฯ - อยุธยา ชลบุรี เพลิดเพลินกับการเดินทางไปทะเล</li>
-        <li>กรุงเทพฯ - หัวหิน เที่ยวพักผ่อนชายทะเลได้ง่ายๆ</li>
-        <li>กรุงเทพฯ - นครราชสีมา เดินทางไปโคราชสะดวกเหมาะสำหรับทำธุรกิจและท่องเที่ยว</li>
-        <li>กรุงเทพฯ - สุพรรณบุรี เดินทางไปจังหวัดใกล้เคียงง่ายปลอดภัย</li>
-        <li>กรุงเทพฯ - นครสวรรค์ เหมาะสำหรับการเดินทางไปภาคเหนือแบบสะดวกสบาย</li>
-        <li>กรุงเทพฯ - กาญจนบุรี เที่ยวธรรมชาติและประวัติศาสตร์ได้ง่าย</li>
-    </ul>
-</div>
-
-<!-- เส้นทางยอดนิยมในกรุงเทพฯ -->
-<h2>เส้นทางยอดนิยมในกรุงเทพฯ</h2>
-<div class="bangkok-routes">
-    <ul>
-        <li>เส้นทางที่ 1: </li>
-        <li>เส้นทางที่ 2: </li>
-        <li>เส้นทางที่ 3: </li>
-        <li>เส้นทางที่ 4: </li>
-        <li>เส้นทางที่ 5: </li>
-    </ul>
-</div>
-
-</body>
-</html>
- หน้าที่ 4
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Taxi On Tour - หน้าที่ 4</title>
-<style>
-body { margin:0; padding:0; font-family:Arial,sans-serif; background-color:#fff; color:#000; line-height:1.6; }
-header { padding:20px; text-align:center; }
-/* โลโก้โปรไฟล์ */
-.logo-profile { width:150px; height:150px; background-color:#ccc; margin:0 auto 30px auto; display:flex; justify-content:center; align-items:center; font-weight:bold; }
-
-/* หัวข้อใหญ่ */
-h1 { font-size:28px; font-weight:bold; margin:20px 0; text-align:center; }
-h2 { font-size:24px; font-weight:bold; margin:20px 0; }
-h3 { font-size:20px; font-weight:bold; margin:15px 0; }
-
-/* ข้อความเล็ก */
-p.small { font-size:14px; font-weight:300; margin-bottom:10px; }
-
-/* จุดหัวข้อเล็กหนา */
-p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
-
-/* ส่วนวางเบอร์โทรและ LINE */
-.phone-line-placeholder { width:200px; height:50px; background-color:#ccc; margin:10px auto; display:block; }
-
-/* ส่วนวางรูปรถหรือรูปโปรไฟล์ */
-.image-placeholder { width:100%; height:250px; background-color:#eee; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ตารางเครื่องหมายถูกตัวอย่าง */
-.check-grid { display:flex; justify-content:space-around; flex-wrap:wrap; margin:20px 0; }
-.check-item { background-color:#00a651; color:#fff; width:180px; height:80px; border-radius:8px; display:flex; justify-content:center; align-items:center; text-align:center; margin:10px; font-weight:bold; font-size:14px; }
-
-/* ส่วนพื้นหลังดำสำหรับสไลด์ภาพถ้าใช้ */
-.slider-placeholder { width:100%; height:250px; background-color:#ddd; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ส่วนท้ายข้อความ */
-.footer-section { text-align:center; margin:30px 20px; }
-.footer-section h2 { font-size:24px; font-weight:bold; margin-bottom:15px; }
-</style>
-</head>
-<body>
-
-<header>
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-
-</header>
-
-<!-- บริการเหมารถเก๋ง -->
-<h1>เหมารถเก๋งกรุงเทพฯ บริการพร้อมคนขับ ปลอดภัยมาตรฐาน</h1>
-<p class="small">
-  บริการรถเก๋งเล็กพร้อมคนขับในกรุงเทพฯ เดินทางสะดวก ปลอดภัย ไม่ต้องขับเอง เหมาะสำหรับนักท่องเที่ยว นักธุรกิจ และครอบครัว มีรถให้เลือกหลายรุ่น เช่น Toyota Altis, Honda City, Nissan Almera บริการ 24 ชั่วโมง เส้นทางยอดนิยม กรุงเทพ-พัทยา, นครราชสีมา, สุพรรณบุรี และอีกมากมาย จองรถง่ายๆ ผ่านโทรศัพท์และเว็บไซต์</p>
-
-<h2>ทำไมเลือกบริการเหมารถเก๋งเล็กกับเรา?</h2>
-<p class="small-bold">ประหยัดค่าใช้จ่าย</p>
-<p class="small">บริการรถเหมาเก๋งเล็กเหมาะสำหรับการเดินทางในระยะทางไม่ไกลหรือการเดินทางในเมือง ที่เสนอราคาคุ้มค่า ช่วยประหยัดค่าใช้จ่ายในการเดินทาง</p>
-
-<p class="small-bold">สะดวกสบายและปลอดภัย</p>
-<p class="small">รถเก๋งเล็กของเราบำรุงรักษาอย่างสม่ำเสมอ สภาพรถใหม่และสะอาด คนขับมืออาชีพ ให้บริการสุภาพและปลอดภัย</p>
-
-<p class="small-bold">บริการครอบคลุมทุกความต้องการ</p>
-<p class="small">ไม่ว่าจะเป็นการเดินทางทำธุระ เที่ยว หรือรูปแบบอื่นๆ รถเก๋งเล็กของเราตอบสนองทุกความต้องการได้อย่างดี</p>
-
-<p class="small-bold">สะดวกในการจองและบริการผ่านเว็บไซต์</p>
-<p class="small">สามารถจองบริการเหมารถเก๋งเล็กง่ายๆ ผ่านเว็บไซต์เพียงกรอกข้อมูลการเดินทางและเวลาที่ต้องการใช้บริการ</p>
- <h2> ต้องการใช้บริการ </h2>
-   <!-- 🔴 ปุ่มแถบสีแดง โทรออกได้ -->
+    
+    
+    💢💢💢💢
+       <!-- 🔴 ปุ่มแถบสีแดง โทรออกได้ -->
 <div style="text-align: center; margin-bottom: 30px;">
   <a href="tel:0636385818"
      style="display: inline-block;
@@ -1149,261 +829,77 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
     💬 แชทผ่าน LINE กับเรา
   </a>
 </div>
-<!-- ช่องวางรูปรถ/โปรไฟล์ -->
-      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=1024" alt="Car 3">
-      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=1024" alt="Car 4">
-<div class="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=1024">วางรูปรถ/โปรไฟล์</div>
-      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=1024" alt="Car 3">
-  💢💢💢💢
-       หน้าที่ 4
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Taxi On Tour - หน้าที่ 4</title>
-<style>
-body { margin:0; padding:0; font-family:Arial,sans-serif; background-color:#fff; color:#000; line-height:1.6; }
-header { padding:20px; text-align:center; }
-/* โลโก้โปรไฟล์ */
-.logo-profile { width:150px; height:150px; background-color:#ccc; margin:0 auto 30px auto; display:flex; justify-content:center; align-items:center; font-weight:bold; }
+💛💛💛
+<!-- ✅ ปุ่มลอยติดต่อ Taxi Mongkol -->
+<div class="floating-buttons">
+  <!-- 📞 โทรศัพท์ -->
+  <a href="tel:0636385818" class="contact-btn call-btn" title="โทรหาเรา">
+    <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" alt="Phone Logo">
+  </a>
 
-/* หัวข้อใหญ่ */
-h1 { font-size:28px; font-weight:bold; margin:20px 0; text-align:center; }
-h2 { font-size:24px; font-weight:bold; margin:20px 0; }
-h3 { font-size:20px; font-weight:bold; margin:15px 0; }
+  <!-- 💬 WhatsApp -->
+  <a href="https://wa.me/66636385818" class="contact-btn whatsapp-btn" target="_blank" title="WhatsApp">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Logo">
+  </a>
 
-/* ข้อความเล็ก */
-p.small { font-size:14px; font-weight:300; margin-bottom:10px; }
-
-/* จุดหัวข้อเล็กหนา */
-p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
-
-/* ส่วนวางเบอร์โทรและ LINE */
-.phone-line-placeholder { width:200px; height:50px; background-color:#ccc; margin:10px auto; display:block; }
-
-/* ส่วนวางรูปรถหรือรูปโปรไฟล์ */
-.image-placeholder { width:100%; height:250px; background-color:#eee; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ตารางเครื่องหมายถูกตัวอย่าง */
-.check-grid { display:flex; justify-content:space-around; flex-wrap:wrap; margin:20px 0; }
-.check-item { background-color:#00a651; color:#fff; width:180px; height:80px; border-radius:8px; display:flex; justify-content:center; align-items:center; text-align:center; margin:10px; font-weight:bold; font-size:14px; }
-
-/* ส่วนพื้นหลังดำสำหรับสไลด์ภาพถ้าใช้ */
-.slider-placeholder { width:100%; height:250px; background-color:#ddd; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ส่วนท้ายข้อความ */
-.footer-section { text-align:center; margin:30px 20px; }
-.footer-section h2 { font-size:24px; font-weight:bold; margin-bottom:15px; }
-</style>
-</head>
-<body>
-
-<header>
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749403770.jpg?w=1024" alt="Car 2">
-    <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-<img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-<img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749398988.jpg?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-</header>
-🍥🍥🍥🍥
-
-    🚨🚨🚨🚨
-<!-- บริการเช่า SUV -->
-<h1>เหมารถ SUV เช่าพร้อมคนขับ กรุงเทพฯ</h1>
-<p class="small">บริการเช่ารถ SUV พร้อมคนขับในกรุงเทพฯ ปลอดภัยและสะดวกสบาย สำหรับการท่องเที่ยวทั้งในกรุงเทพฯ และต่างจังหวัด พร้อมบริการเป็นมิตรและราคาคุ้มค่า โทรจองวันนี้!</p>
-
-<h2>ทำไมควรเลือกบริการรถเช่า SUV พร้อมคนขับ</h2>
-<p class="small">ความสะดวกในการเดินทาง ปลอดภัยและสะดวกสบาย</p>
-<p class="small">เหมาะสำหรับกลุ่มท่องเที่ยว ครอบครัว หรือกลุ่มเพื่อนๆ</p>
-<p class="small">คนขับมืออาชีพและมีความรู้เกี่ยวกับเส้นทาง</p>
-<p class="small">รถ SUV มีความจุและสภาพดี รองรับการเดินทางระยะยาว</p>
-   <h2> ต้องการใช้บริการ</h2>
-<!-- 🔴 ปุ่มแถบสีแดง โทรออกได้ -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <a href="tel:0636385818"
-     style="display: inline-block;
-            width: 90%;
-            max-width: 400px;
-            background: linear-gradient(90deg, #ff0000, #cc0000);
-            color: #fff;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 20px;
-            padding: 15px 0;
-            border-radius: 50px;
-            box-shadow: 0 0 30px rgba(255, 0, 0, 0.7);
-            filter: drop-shadow(0 0 15px rgba(255, 80, 80, 0.9));
-            animation: float 3s ease-in-out infinite, pulse 2s infinite;">
-    📞 โทรเรียก Taxi On Tour ได้เลย
+  <!-- 💚 LINE -->
+  <a href="https://line.me/ti/p/HUebrrGfM-" class="contact-btn line-btn" target="_blank" title="LINE">
+    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006974.png?w=800" alt="LINE Logo">
   </a>
 </div>
 
+<!-- ✅ สไตล์ปุ่มลอย -->
 <style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-6px); }
+.floating-buttons {
+  position: fixed;
+  bottom: 18px;  /* เกือบชิดขอบล่างของจอ */
+  right: 18px;   /* ชิดมุมขวา */
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  z-index: 9999;
+  animation: fadeIn 1s ease-in;
 }
 
-@keyframes pulse {
-  0%, 100% { box-shadow: 0 0 15px rgba(255, 0, 0, 0.6); }
-  50% { box-shadow: 0 0 30px rgba(255, 0, 0, 1); }
+/* ✅ ปุ่มแต่ละอัน */
+.contact-btn img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 0 12px rgba(0,0,0,0.25);
+  background: #fff;
+  padding: 6px;
+  transition: all 0.3s ease;
+}
+
+/* เอฟเฟกต์ Hover */
+.contact-btn:hover img {
+  transform: scale(1.12);
+  box-shadow: 0 0 25px rgba(0,0,0,0.35);
+}
+
+/* ปุ่มโทรศัพท์ */
+.call-btn img {
+  background-color: #ff3b30; /* สีแดงสด */
+}
+
+/* ปุ่ม WhatsApp */
+.whatsapp-btn img {
+  background-color: #25d366; /* สีเขียว WhatsApp */
+}
+
+/* ปุ่ม LINE */
+.line-btn img {
+  background-color: #00c300; /* สีเขียว LINE */
+}
+
+/* แอนิเมชันเปิดตัว */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 </style>
-<!-- 💚 ปุ่มแถบสีเขียวสะท้อน ติดต่อ LINE -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <a href="https://line.me/ti/p/HUebrrGfM-" target="_blank"
-     style="display: inline-block;
-            width: 90%;
-            max-width: 350px;
-            background: linear-gradient(60deg, #00c853, #009624);
-            color: #fff;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 20px;
-            padding: 15px 0;
-            border-radius: 80px;
-            box-shadow: 0 0 90px rgba(0, 255, 100, 0.7);
-            filter: drop-shadow(0 0 15px rgba(0, 255, 100, 0.9));
-            animation: float 3s ease-in-out infinite, pulse-green 2s infinite;">
-    💬 แชทผ่าน LINE กับเรา
-  </a>
-</div>
-
-<!-- ช่องวางรูปรถ SUV -->
-<div class="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006610-2.jpg?w=350">วางรูปรถ SUV</div>
-
-<!-- บริการเช่ารถตู้ -->
-<h1>เหมารถตู้ เช่ารถตู้พร้อมคนขับ กรุงเทพฯ</h1>
-<p class="small-bold">บริการเหมารถตู้เพื่อท่องเที่ยวและเดินทางสะดวก ปลอดภัย พร้อมบริการยืดหยุ่น ติดต่อจองง่ายผ่านออนไลน์</p>
-
-<h2>ประเภทบริการเช่ารถตู้ที่มีให้เลือก</h2>
-<p class="small">ขนาด 10 ที่นั่ง • 12 ที่นั่ง • 15 ที่นั่ง</p>
-<p class="small">รูปแบบบริการ: เช่าระยะสั้น • เช่าระยะยาว • ท่องเที่ยว • ทัวร์ส่วนตัว</p>
-
-<h2>ทำไมต้องเลือกบริการเช่ารถตู้พร้อมคนขับในกรุงเทพฯและต่างจังหวัด</h2>
-<p class="small">ความสะดวกสบายในการเดินทาง</p>
-<p class="small">ความปลอดภัยและมืออาชีพของคนขับ</p>
-
-  <h2> ต้องการใช้บริการ </h2>
-   <!-- 🔴 ปุ่มแถบสีแดง โทรออกได้ -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <a href="tel:0636385818"
-     style="display: inline-block;
-            width: 90%;
-            max-width: 400px;
-            background: linear-gradient(90deg, #ff0000, #cc0000);
-            color: #fff;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 20px;
-            padding: 15px 0;
-            border-radius: 50px;
-            box-shadow: 0 0 30px rgba(255, 0, 0, 0.7);
-            filter: drop-shadow(0 0 15px rgba(255, 80, 80, 0.9));
-            animation: float 3s ease-in-out infinite, pulse 2s infinite;">
-    📞 โทรเรียก Taxi On Tour ได้เลย
-  </a>
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-6px); }
-}
-
-@keyframes pulse {
-  0%, 100% { box-shadow: 0 0 15px rgba(255, 0, 0, 0.6); }
-  50% { box-shadow: 0 0 30px rgba(255, 0, 0, 1); }
-}
-</style>
-<!-- 💚 ปุ่มแถบสีเขียวสะท้อน ติดต่อ LINE -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <a href="https://line.me/ti/p/HUebrrGfM-" target="_blank"
-     style="display: inline-block;
-            width: 90%;
-            max-width: 350px;
-            background: linear-gradient(60deg, #00c853, #009624);
-            color: #fff;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 20px;
-            padding: 15px 0;
-            border-radius: 80px;
-            box-shadow: 0 0 90px rgba(0, 255, 100, 0.7);
-            filter: drop-shadow(0 0 15px rgba(0, 255, 100, 0.9));
-            animation: float 3s ease-in-out infinite, pulse-green 2s infinite;">
-    💬 แชทผ่าน LINE กับเรา
-  </a>
-</div>
-<!-- ช่องวางสไลด์/เปลี่ยนรูปภาพ -->
-<div class="slider-placeholder">วางสไลด์รูปภาพรถที่เปลี่ยนรูปภาพได้</div>
-
-<!-- บริการแท็กซี่สนามบิน -->
-<div class="footer-section">
-<h2>แท็กซี่กรุงเทพฯและต่างจังหวัด รับส่งสนามบิน</h2>
-<p>เหมารถจากกรุงเทพฯไปสนามบิน บริการแท็กซี่คุณภาพ สะดวกรวดเร็ว</p>
-   <h2> ต้องการใช้บริการ</h2>
-<!-- 🔴 ปุ่มแถบสีแดง โทรออกได้ -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <a href="tel:0636385818"
-     style="display: inline-block;
-            width: 90%;
-            max-width: 400px;
-            background: linear-gradient(90deg, #ff0000, #cc0000);
-            color: #fff;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 20px;
-            padding: 15px 0;
-            border-radius: 50px;
-            box-shadow: 0 0 30px rgba(255, 0, 0, 0.7);
-            filter: drop-shadow(0 0 15px rgba(255, 80, 80, 0.9));
-            animation: float 3s ease-in-out infinite, pulse 2s infinite;">
-    📞 โทรเรียก Taxi On Tour ได้เลย
-  </a>
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-6px); }
-}
-
-@keyframes pulse {
-  0%, 100% { box-shadow: 0 0 15px rgba(255, 0, 0, 0.6); }
-  50% { box-shadow: 0 0 30px rgba(255, 0, 0, 1); }
-}
-</style>
-<!-- 💚 ปุ่มแถบสีเขียวสะท้อน ติดต่อ LINE -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <a href="https://line.me/ti/p/HUebrrGfM-" target="_blank"
-     style="display: inline-block;
-            width: 90%;
-            max-width: 350px;
-            background: linear-gradient(60deg, #00c853, #009624);
-            color: #fff;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 20px;
-            padding: 15px 0;
-            border-radius: 80px;
-            box-shadow: 0 0 90px rgba(0, 255, 100, 0.7);
-            filter: drop-shadow(0 0 15px rgba(0, 255, 100, 0.9));
-            animation: float 3s ease-in-out infinite, pulse-green 2s infinite;">
-    💬 แชทผ่าน LINE กับเรา
-  </a>
-</div>
-
-</div>
-
-</body>
-</html>
- หน้าที่ 5
+🍎🍎🍎🍎
 <!-- ===== ส่วนท้ายเว็บไซต์ Taxi Mongkol ===== -->
 <footer class="footer-section">
   
@@ -1446,16 +942,6 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
       <!-- ✅ ใส่โลโก้ของคุณที่นี่ -->
       <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749398988.jpg?w=1024" alt="โลโก้ของคุณ" class="logo-img">
     </div>
-      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749403770.jpg?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749398988.jpg?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-    </header>
     <p class="address">2หมู่8 เทพารักษ์ นครราชสีมา ประเทศไทย</p>
     <a href="https://mongkol2010.simdif.com" target="_blank" class="website-link">www.mongkol2010.simdif.com</a>
   </div>
@@ -1813,160 +1299,98 @@ p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
   to { opacity: 1; transform: translateY(0); }
 }
 </style>
+🍎🍎🍎🍎
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <a href="https://line.me/ti/p/HUebrrGfM-" target="_blank"
+     style="display: inline-block;
+            width: 90%;
+            max-width: 350px;
+            background: linear-gradient(60deg, #00c853, #009624);
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 20px;
+            padding: 15px 0;
+            border-radius: 80px;
+            box-shadow: 0 0 90px rgba(0, 255, 100, 0.7);
+            filter: drop-shadow(0 0 15px rgba(0, 255, 100, 0.9));
+            animation: float 3s ease-in-out infinite, pulse-green 2s infinite;">
+    💬 แชทผ่าน LINE กับเรา
+  </a>
+</div>
 
-🍎🍎🍎
- หน้าที่ 4
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Taxi On Tour - หน้าที่ 4</title>
-<style>
-body { margin:0; padding:0; font-family:Arial,sans-serif; background-color:#fff; color:#000; line-height:1.6; }
-header { padding:20px; text-align:center; }
-/* โลโก้โปรไฟล์ */
-.logo-profile { width:150px; height:150px; background-color:#ccc; margin:0 auto 30px auto; display:flex; justify-content:center; align-items:center; font-weight:bold; }
-
-/* หัวข้อใหญ่ */
-h1 { font-size:28px; font-weight:bold; margin:20px 0; text-align:center; }
-h2 { font-size:24px; font-weight:bold; margin:20px 0; }
-h3 { font-size:20px; font-weight:bold; margin:15px 0; }
-
-/* ข้อความเล็ก */
-p.small { font-size:14px; font-weight:300; margin-bottom:10px; }
-
-/* จุดหัวข้อเล็กหนา */
-p.small-bold { font-size:14px; font-weight:bold; margin-bottom:5px; }
-
-/* ส่วนวางเบอร์โทรและ LINE */
-.phone-line-placeholder { width:200px; height:50px; background-color:#ccc; margin:10px auto; display:block; }
-
-/* ส่วนวางรูปรถหรือรูปโปรไฟล์ */
-.image-placeholder { width:100%; height:250px; background-color:#eee; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ตารางเครื่องหมายถูกตัวอย่าง */
-.check-grid { display:flex; justify-content:space-around; flex-wrap:wrap; margin:20px 0; }
-.check-item { background-color:#00a651; color:#fff; width:180px; height:80px; border-radius:8px; display:flex; justify-content:center; align-items:center; text-align:center; margin:10px; font-weight:bold; font-size:14px; }
-
-/* ส่วนพื้นหลังดำสำหรับสไลด์ภาพถ้าใช้ */
-.slider-placeholder { width:100%; height:250px; background-color:#ddd; margin:20px 0; display:flex; justify-content:center; align-items:center; font-weight:bold; color:#555; }
-
-/* ส่วนท้ายข้อความ */
-.footer-section { text-align:center; margin:30px 20px; }
-.footer-section h2 { font-size:24px; font-weight:bold; margin-bottom:15px; }
-</style>
-</head>
-<body>
-
-<header>
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749403770.jpg?w=1024" alt="Car 2">
-    <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-<img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-<img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749398988.jpg?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-</header>
-💟💟💟
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Taxi On Tour - หน้าที่ 4</title>
-<style>
-body { margin:0; padding:0; font-family:Arial,sans-serif; background-color:#fff; color:#000; line-height:1.6; }
-header { padding:20px; text-align:center; }
-
-/* โลโก้โปรไฟล์ */
-.logo-profile {
-  width:150px;
-  height:150px;
-  background-color:#ccc;
-  margin:0 auto 30px auto;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  font-weight:bold;
-}
-
-/* พื้นหลังแต่ละสี */
-.section-blue { background-color:#003366; color:#fff; padding:40px 20px; }
-.section-red { background-color:#b71c1c; color:#fff; padding:40px 20px; }
-.section-gray { background-color:#757575; color:#fff; padding:40px 20px; }
-.section-brown { background-color:#5d4037; color:#fff; padding:40px 20px; }
-
-/* รูปภาพในแต่ละชุด */
-.section img {
-  width:100%;
-  max-width:600px;
-  height:auto;
-  border-radius:10px;
-  display:block;
-  margin:0 auto 20px auto;
-}
-
-/* ข้อความใต้รูป */
-.section p {
-  font-size:16px;
-  text-align:center;
-  max-width:700px;
-  margin:0 auto;
-  line-height:1.8;
-}
-</style>
-</head>
-<body>
-
-<header>
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749403770.jpg?w=1024" alt="โลโก้ Taxi On Tour" style="width:150px; border-radius:10px;">
-</header>
-
-<!-- 🔵 ชุดที่ 1: พื้นหลังสีน้ำเงิน -->
-<section class="section section-blue">
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car Blue">
-  <p>บริการรถเช่าพร้อมคนขับทั่วไทย ด้วยมาตรฐานระดับมืออาชีพ มั่นใจ ปลอดภัยทุกการเดินทาง</p>
-</section>
-
-<!-- 🔴 ชุดที่ 2: พื้นหลังสีแดง -->
-<section class="section section-red">
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749398988.jpg?w=1024" alt="Car Red">
-  <p>แท็กซี่ออนทัวร์พร้อมให้บริการเดินทางทุกจังหวัดทั่วไทย รถใหม่ สะอาด พร้อมคนขับใจดี</p>
-</section>
-
-<!-- ⚪ ชุดที่ 3: พื้นหลังสีเทา -->
-<section class="section section-gray">
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006797.jpg?w=960" alt="Car Gray">
-  <p>เลือกใช้บริการกับเรา เดินทางสะดวก ปลอดภัย ราคาเป็นกันเอง เหมาะกับทุกโอกาส</p>
-</section>
-
-<!-- 🟤 ชุดที่ 4: พื้นหลังสีน้ำตาล -->
-<section class="section section-brown">
-  <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006613-1.jpg?w=960" alt="Car Brown">
-  <p>Taxi On Tour มุ่งมั่นให้บริการด้วยใจ ให้คุณถึงจุดหมายอย่างสบายและมีความสุขทุกเส้นทาง</p>
-</section>
-
-</body>
-</html>
-😘😘😘🌐🌐🌐
-<!-- บริการแท็กซี่สนามบิน -->
-<div class="footer-section">
-  <h2>แท็กซี่กรุงเทพฯและต่างจังหวัด รับส่งสนามบิน</h2>
-  <p>เหมารถจากกรุงเทพฯไปสนามบิน บริการแท็กซี่คุณภาพ สะดวกรวดเร็ว</p>
-  <h2> ต้องการใช้บริการ</h2>
-    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749403770.jpg?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1759749398988.jpg?w=1024" alt="Car 2">
-  <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม
-    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
-    </header>
-    🔥🔥
-
-
+🌐🌐🌐
+ จุดแก้ไขจากกรอบสีแดงให้เป็นสีน้ำเงิน
+ <!-- 🔷 พื้นหลังกรอบสี่เหลี่ยมสีน้ำเงิน -->
+ <div class="contact-box">
+   <!-- ✉️ ปุ่ม Mail -->
+   <a href="mailto:mongkol2010nk@gmail.com?subject=Contact%20Taxi%20Bangkok&body=Hello%20I%20would%20like%20to%20contact%20you..." class="mail-button">
+     📩 <strong>Mail</strong>
+   </a>
+   
+   <!-- 📞 ปุ่มโทรศัพท์ -->
+   <a href="tel:0636385818" class="call-button">
+     📞 <strong>063-638-5818</strong>
+   </a>
+ </div>
+ 
+ <style>
+   /* 🔷 พื้นหลังกรอบสี่เหลี่ยม */
+   .contact-box {
+     background: #007bff;
+     /* พื้นหลังน้ำเงินสด */
+     padding: 30px 20px;
+     border-radius: 20px;
+     text-align: center;
+     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+     margin: 30px auto;
+     width: fit-content;
+   }
+   
+   /* ✉️ ปุ่ม Mail */
+   .mail-button {
+     display: inline-block;
+     background: #ffffff;
+     color: #007bff;
+     font-family: 'Prompt', sans-serif;
+     font-size: 1.25em;
+     font-weight: 700;
+     text-decoration: none;
+     padding: 10px 22px;
+     border-radius: 50px;
+     margin: 10px;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+     transition: 0.3s ease;
+   }
+   
+   .mail-button:hover {
+     background: #e3f2fd;
+     color: #0056b3;
+     transform: scale(1.05);
+   }
+   
+   /* 📞 ปุ่มโทรศัพท์ */
+   .call-button {
+     display: inline-block;
+     background: #ffffff;
+     color: #007bff;
+     font-family: 'Prompt', sans-serif;
+     font-size: 1.25em;
+     font-weight: 700;
+     text-decoration: none;
+     padding: 10px 22px;
+     border-radius: 50px;
+     margin: 10px;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+     transition: all 0.3s ease;
+   }
+   
+   .call-button:hover {
+     background: #e3f2fd;
+     color: #0056b3;
+     transform: scale(1.05);
+   }
+ </style>
+ 
+ 💟💟💟
+ 
